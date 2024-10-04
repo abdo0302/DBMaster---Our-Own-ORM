@@ -45,5 +45,5 @@ Voici les fichiers inclus dans le projet :
 
 1. **Cloner le dépôt** :
    ```bash
-   https://github.com/abdo0302/DBMaster---Our-Own-ORM.git
+   git clone https://github.com/abdo0302/DBMaster---Our-Own-ORM.git
    cd ORM-PHP
